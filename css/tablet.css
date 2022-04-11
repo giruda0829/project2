@@ -1,0 +1,54 @@
+@media screen and (min-width:501px) and (max-width:769px){
+    .container{padding: 0 10px;}
+    #h-slider .line{
+        width: 87%;
+    }
+    #header-wrap>nav{padding: 0 50px;}
+    #header-wrap .h-n-logo img{width: 85px;}
+    #header-wrap .h-n-menu ul{display: none;}
+    #h-slider .h-s-type{left: 10%;}
+    #h-slider .h-s-btn{left: 19%;}
+    #header-wrap .h-n-contant a{
+        text-indent: -99999em;
+    }
+    #header-wrap .h-n-contant{width: 120px; right: -20px;}
+    #header-wrap .h-n-contant .mypage{
+        background: url(../img/icon/genesis-kr-gnb-mypage-icon-01-tablet-34x38-ko.png) no-repeat center center /contain;
+        width: 30px;
+    }
+    #header-wrap .h-n-contant .infomation{
+        background: url(../img/icon/genesis-kr-gnb-support-icon-01-tablet-17x17-ko.png) no-repeat center center /contain;
+        width: 30px;
+    }
+    #main-wrap #m-slider{height: 500px;}
+    #m-slider .img1{height: 500px;}
+    #m-models .prev img{transform: rotate(180deg);}
+    #m-models .prev img, #m-models .next img{
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+    #m-models .m-m-model{margin: 0 20px;}
+    #m-instagram .content{width: 80%;margin: 10px auto;}
+    #m-instagram .txt{width: 500px;}
+    #m-contents .df{padding: 0;}
+    #m-contents .m-c-con{margin: 0 65px; margin-bottom: 40px;
+    width: 100%;}
+    #footer-wrap .inner{
+        padding: 0 50px;
+    }
+    #f-menu .f-m-list>ul>li{
+        margin-right: 0;
+        width: 140px;
+    }
+    #footer-wrap #f-shortcut{
+        height: 165px;
+    }
+    #footer-wrap #f-nav{
+        height: 100px;
+    }
+    #f-nav .f-n-list ul{
+        flex-wrap: wrap;
+        width: 450px;
+        justify-content: flex-start;
+    }
+}

@@ -1,0 +1,14 @@
+.pager span{
+    background: #bbb;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    content: '';
+    z-index: 10;
+}
+.main-tit>h2{
+    margin: 0 auto;
+    height: 60px;
+    text-align: center;
+    font-size: 34px;
+}
